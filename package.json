@@ -13,7 +13,7 @@
     "express": "^4.16.2",
     "helmet": "^3.21.3",
     "moment": "^2.24.0",
-    "mongoose": "^4.13.5",
+    "mongoose": "^5.7.5",
     "pino": "^5.17.0",
     "shortid": "^2.2.8"
   }
